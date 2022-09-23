@@ -1,0 +1,4 @@
+﻿  DateRo.cpp
+D:\0_My_file\C++\Test1_2q\DateRo\DateRo.cpp(10,18): warning C4305: инициализация: усечение из "double" в "float"
+D:\0_My_file\C++\Test1_2q\DateRo\DateRo.cpp(23,21): warning C4305: инициализация: усечение из "double" в "float"
+  DateRo.vcxproj -> D:\0_My_file\C++\Test1_2q\DateRo\x64\Debug\DateRo.exe
